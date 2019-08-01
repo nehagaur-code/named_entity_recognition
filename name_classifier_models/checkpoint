@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zibal/Desktop/News_Name_Entity1/name_classifier_models/modelintent.tflearn"
+all_model_checkpoint_paths: "/home/zibal/Desktop/News_Name_Entity1/name_classifier_models/modelintent.tflearn"
